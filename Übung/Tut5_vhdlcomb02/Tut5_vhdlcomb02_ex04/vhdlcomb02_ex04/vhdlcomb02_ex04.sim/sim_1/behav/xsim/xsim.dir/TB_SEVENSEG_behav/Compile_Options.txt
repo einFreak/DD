@@ -1,0 +1,1 @@
+-wto "3cdc5fbae49b479bab692502ea5bad12" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "TB_SEVENSEG_behav" "xil_defaultlib.TB_SEVENSEG" -log "elaborate.log" 

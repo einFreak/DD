@@ -1,0 +1,16 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/vhdlcomb2/vhdlcomb2.srcs/sim_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'

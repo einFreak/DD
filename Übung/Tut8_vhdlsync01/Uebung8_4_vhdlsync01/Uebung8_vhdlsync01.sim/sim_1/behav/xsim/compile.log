@@ -1,0 +1,32 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+ERROR: [VRFC 10-1412] syntax error near process [/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd:23]
+ERROR: [VRFC 10-1412] syntax error near begin [/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd:26]
+ERROR: [VRFC 10-3782] unit 'arch' ignored due to previous errors [/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd:10]
+INFO: [VRFC 10-3070] VHDL file '/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/Uebung8/Tut8_vhdlsync01/Uebung8_vhdlsync01/Uebung8_vhdlsync01.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'

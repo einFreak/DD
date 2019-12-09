@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcom02/tut_vhdlcomb02_given/ex02/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/Tut5_vhdlcomb02_ex02/vhdlcomb02_ex02/vhdlcomb02_ex02.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'

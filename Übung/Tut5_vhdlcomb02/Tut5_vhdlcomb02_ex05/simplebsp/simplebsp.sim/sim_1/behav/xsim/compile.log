@@ -1,0 +1,19 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+ERROR: [VRFC 10-719] formal port/generic <btn> is not declared in <sevenseg> [/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd:20]
+ERROR: [VRFC 10-3353] formal port 'bin' has no actual or default value [/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd:20]
+ERROR: [VRFC 10-2989] 'bin' is not declared [/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd:23]
+ERROR: [VRFC 10-3782] unit 'arch' ignored due to previous errors [/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd:10]
+INFO: [VRFC 10-3070] VHDL file '/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/sevenseg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sevenseg'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sim_1/imports/hdl/tb_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_MODULE'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
+INFO: [VRFC 10-163] Analyzing VHDL file "/zwork/dd/simplebsp/simplebsp/simplebsp.srcs/sources_1/imports/hdl/module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'module'
