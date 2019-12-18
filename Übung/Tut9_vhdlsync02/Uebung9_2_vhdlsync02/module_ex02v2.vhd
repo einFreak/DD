@@ -49,7 +49,7 @@ end process CLKPROC;
 
     
 
-LEDPROC: process(ticksek, RESET)
+LEDPROC: process(CLK)
     LED0 <= '0';
 	LED1 <= '0';
 	LED2 <= '0';
@@ -60,37 +60,38 @@ LEDPROC: process(ticksek, RESET)
 		nstate <= L1;
 		state <= L0;
 		
-		end if;
+		elsif CLK = '1' and CLK'event then   
 		
-        if ticksek = '1' then
-			case state is
-				when L0 =>
-					LED0 <= '1';
-					nstate <= L1;
-				when L1 =>
-					LED1 <= '1';
-					nstate <= L2;
-				when L2 =>
-					LED2 <= '1';
-					nstate <= L3;
-				when L3 =>
-					LED3 <= '1';
-					nstate <= L4;
-				when L4 =>
-					LED2 <= '1';
-					nstate <= L5;
-				when L5 =>
-					LED1 <= '1';
-					nstate <= L0;
-				when others =>
-					LED0 <= 1;
-					LED1 <= 1;
-					LED2 <= 1;
-					LED3 <= 1;
-					nstate <= L0;
-			end case;
+			if ticksek = '1' then
+				case state is
+					when L0 =>
+						LED0 <= '1';
+						nstate <= L1;
+					when L1 =>
+						LED1 <= '1';
+						nstate <= L2;
+					when L2 =>
+						LED2 <= '1';
+						nstate <= L3;
+					when L3 =>
+						LED3 <= '1';
+						nstate <= L4;
+					when L4 =>
+						LED2 <= '1';
+						nstate <= L5;
+					when L5 =>
+						LED1 <= '1';
+						nstate <= L0;
+					when others =>
+						LED0 <= 1;
+						LED1 <= 1;
+						LED2 <= 1;
+						LED3 <= 1;
+						nstate <= L0;
+				end case;
             
-        end if;
+			end if;
+		end if;
 end process LEDPROC;
 
 --##INSERT YOUR CODE HERE END
