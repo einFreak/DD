@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Uebung9_vhdlsync02.srcs/sources_1/imports/hdl/module.vhd" \
+"../../../../Uebung9_vhdlsync02.srcs/sources_1/imports/Uebung9_3_vhdlsync02/sevenseg.vhd" \
+"../../../../Uebung9_vhdlsync02.srcs/sim_1/imports/hdl/tb_module.vhd" \
+
+# Do not sort compile order
+nosort
