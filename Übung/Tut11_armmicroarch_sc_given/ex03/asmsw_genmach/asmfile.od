@@ -1,0 +1,15 @@
+
+asmfile.o:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00000000 <MYFN>:
+   0:	e04f300f 	sub	r3, pc, pc
+   4:	e2833001 	add	r3, r3, #1
+   8:	e1a03f83 	lsl	r3, r3, #31
+   c:	e2834001 	add	r4, r3, #1
+  10:	e2843005 	add	r3, r4, #5
+  14:	e1a03083 	lsl	r3, r3, #1
+  18:	e1a04084 	lsl	r4, r4, #1
+  1c:	e5834008 	str	r4, [r3, #8]
